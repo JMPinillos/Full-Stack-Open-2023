@@ -1,6 +1,6 @@
 
 
-##  0.1: HTML
+##  0.1: HTML :heavy_check_mark:
 
 Revise los conceptos básicos de HTML leyendo este tutorial de Mozilla: [tutorial HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics).
 
@@ -8,7 +8,7 @@ Revise los conceptos básicos de HTML leyendo este tutorial de Mozilla: [tutoria
 
 
 
-## 0.2: CSS
+## 0.2: CSS :heavy_check_mark:
 
 Revise los conceptos básicos de CSS leyendo este tutorial de Mozilla: [tutorial CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics).
 
@@ -16,7 +16,7 @@ Revise los conceptos básicos de CSS leyendo este tutorial de Mozilla: [tutorial
 
 
 
-## 0.3: Formularios HTML
+## 0.3: Formularios HTML :heavy_check_mark:
 
 Aprende sobre los conceptos básicos de los formularios HTML leyendo el tutorial de Mozilla [Tu primer formulario](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form).
 
